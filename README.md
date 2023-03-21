@@ -5,4 +5,4 @@
 welcome on my Github</p>
 
 - 🔭 Check out my [CV and projects](https://robinlej.github.io/cv/) 
-- 🦄 As I'm just finishing an internship, I am now looking for a job in Web Development
+- Working at Odoo for the moment!
